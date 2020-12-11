@@ -1,5 +1,7 @@
 # GA_TSP
 Genetic Algorithm for TSP Problem
-Library:
+## Libraries
+
 -Pandas
+
 -Random
