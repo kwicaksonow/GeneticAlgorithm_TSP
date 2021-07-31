@@ -1,5 +1,5 @@
 # GA_TSP
-Genetic Algorithm for TSP Problem
+Genetic Algorithm for Travelling Salesman Problem Problem
 ## Libraries
 
 -Pandas
